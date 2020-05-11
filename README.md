@@ -1,3 +1,3 @@
-To open Praat script:
-1. GUI or
-2. /dir/praat --run script.praat [arg]
+Tools for conducting analysis
+1. extractIntervals.praat
+2. checkIntervals.py
